@@ -3,7 +3,7 @@
 
 Treinamentos
 
-[1. Python básico e OOP]()
+[1. Python básico e OOP](https://github.com/armandossrecife/treinamentos/blob/main/Review_Python_Basic_Tutorial.ipynb)
 
 [2. Flask](https://flask.palletsprojects.com/en/2.1.x/)
 
